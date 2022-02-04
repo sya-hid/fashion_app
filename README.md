@@ -17,4 +17,6 @@ samples, guidance on mobile development, and a full API reference. -->
 
 <!-- ![preview_gif](assets/Screenrecorder-2022-02-04-11-42-07-734.gif) -->
 
+<a href="assets/preview(1).jpg" title=""><img src="assets/preview(1).jpg" width="240" height="480"></a>
+<a href="assets/preview(2).jpg" title=""><img src="assets/preview(2).jpg" width="240" height="480"></a>
 <a href="assets/Screenrecorder-2022-02-04-11-42-07-734.gif" title=""><img src="assets/Screenrecorder-2022-02-04-11-42-07-734.gif" width="240" height="480"></a>
