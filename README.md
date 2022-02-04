@@ -16,3 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ![preview_gif](assets/Screenrecorder-2022-02-04-11-42-07-734.gif)
+<a href="assets/Screenrecorder-2022-02-04-11-42-07-734.gif" title="video text"><img src="assets/Screenrecorder-2022-02-04-11-42-07-734.gif" width="288" height="480"></a>
