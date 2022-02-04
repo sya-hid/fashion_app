@@ -1,8 +1,8 @@
 # fashion_app
 
-A new Flutter project.
+Preview
 
-## Getting Started
+<!-- ## Getting Started
 
 This project is a starting point for a Flutter application.
 
@@ -13,7 +13,8 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile development, and a full API reference. -->
 
-![preview_gif](assets/Screenrecorder-2022-02-04-11-42-07-734.gif)
-<a href="assets/Screenrecorder-2022-02-04-11-42-07-734.gif" title="video text"><img src="assets/Screenrecorder-2022-02-04-11-42-07-734.gif" width="288" height="480"></a>
+<!-- ![preview_gif](assets/Screenrecorder-2022-02-04-11-42-07-734.gif) -->
+
+<a href="assets/Screenrecorder-2022-02-04-11-42-07-734.gif" title=""><img src="assets/Screenrecorder-2022-02-04-11-42-07-734.gif" width="240" height="480"></a>
